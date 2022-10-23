@@ -157,6 +157,5 @@ No known bugs at this time.
 Deborah Adeoye - [Github](https://github.com/dearlydebbie) 
 Gifti Lelisa - [Github](https://github.com/GiftyL) 
 
-Second part of Airbnb: Joann Vuong
 ## License
 Public Domain. No copy write protection. 
